@@ -1,3 +1,9 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
+"""This module calculates a factorial based on user input."""
+__author__ = "George"
+
 
 myinput = int(input("Enter your number: "))
 answer = myinput
