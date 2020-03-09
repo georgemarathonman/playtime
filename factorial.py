@@ -3,6 +3,7 @@
 
 """This module calculates a factorial based on user input."""
 __author__ = "George"
+__version__ = "1.3"
 
 
 myinput = int(input("Enter your number: "))
