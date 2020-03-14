@@ -3,7 +3,7 @@
 
 """This module calculates a factorial based on user input."""
 __author__ = "George"
-__version__ = "1.3"
+__version__ = "1.4"
 
 
 myinput = int(input("Enter your number: "))
@@ -13,6 +13,6 @@ while (myinput != 1):
     myinput -= 1
     answer = answer * myinput
 
-print("Your factorial is : ", answer)
+print("Your factorial is: ", answer)
 
 
