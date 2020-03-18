@@ -35,7 +35,7 @@ for countx in range(len(word1)):
             print("2 ",word2[county])
 
 
-if (matchcount == 3) + (matchcount == len(word1)):
+if (matchcount == len(word1)):
     print("We have an anagram!")
 else:
     print("No anagram was detected.")
